@@ -1,0 +1,10 @@
+hello world big data
+hello spark processing
+big data is interesting
+spark is fast and powerful
+mapreduce was the first
+spark improves on mapreduce
+rdd and dataframe are spark concepts
+big data processing is fun
+hello again world
+spark is versatile
