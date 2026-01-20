@@ -431,9 +431,3 @@ Simulasi pengolahan data transaksi toko secara _real-time_.
    ```python
    .config("spark.jars.packages", "org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.0")
    ```
-
-## 📝 Tugas Latihan
-
-- **Statistik**: Analisis perbandingan harga berlian berdasarkan warna dan histogram kedalaman (depth).
-- **ML**: Prediksi gaji untuk data baru dan eksperimen jumlah cluster (K) pada K-Means.
-- **Streaming**: Menambahkan metrik "Total Quantity" dan memfilter transaksi bernilai tinggi (> 1 Juta).
